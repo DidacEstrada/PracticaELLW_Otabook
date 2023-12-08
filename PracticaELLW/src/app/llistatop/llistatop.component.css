@@ -1,7 +1,9 @@
 ul{
   margin: 0;
-  padding: 0;
  list-style: none;
+ align-items: center;
+ justify-content: center;
+
 }
 
 li{
@@ -9,4 +11,18 @@ li{
   padding: 10px;
   display: flex;
   align-items: center;
+  width: 300px;
+}
+
+span{
+  flex-grow: 1; /* Hace que el texto ocupe todo el espacio restante disponible */
+  text-align: center;
+}
+
+li img{
+  margin-right: 20px;
+}
+
+.play{
+  margin-left: 20px;
 }

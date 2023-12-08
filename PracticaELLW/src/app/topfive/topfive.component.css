@@ -1,10 +1,12 @@
 div{
   border-radius: 5px;
-  margin-top: 5px;
-  background-color: forestgreen;
-  height: 500px;
+  margin-top: 20px;
+  background-color: coral;
+  height: 510px;
   width: 400px;
-  padding: 10px;
+  padding: 20px;
+  margin-left: 30px;
+
 
 }
 
