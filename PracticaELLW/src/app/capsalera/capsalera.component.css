@@ -9,4 +9,12 @@ padding: 10px;
 margin: 0;
 }
 
+div app-logo{
+  margin-left: 50px;
+}
+
+div app-navcapsalera{
+  margin-right: 50px;
+}
+
 
