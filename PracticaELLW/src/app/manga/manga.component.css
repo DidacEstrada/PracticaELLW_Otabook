@@ -1,6 +1,45 @@
 header {
   width: 100%;
   box-sizing: border-box;
-  margin-left: 0;
+  margin: 0;
   padding: 0;
+}
+
+#book-logo {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: coral;
+  border-radius: 5px;
+  padding: 20px;
+  margin-right: 50px;
+}
+#book-details {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  margin-top: 20px;
+}
+#sinopsis {
+  margin: 0;
+}
+h5{
+  margin: 0;
+
+}
+img {
+  max-width: 230px;
+  height: auto;
+  border: 3px solid black;
+}
+
+#book-info {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  background-color: coral;
+  border-radius: 5px;
+  padding: 20px;
+  padding-top: 10px;
+
 }
