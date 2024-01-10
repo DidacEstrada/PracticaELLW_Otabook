@@ -1,17 +1,16 @@
 
-<section id="book-details">
+<section id="book-details" *ngIf="mangaData">
   <div id="book-logo">
-      <img src="./assets/img/onepiece.jpg" alt="logo">
-      <p>Autor: Akira Toriyama</p>
-      <p>Número de Capítulos: 1103</p>
+      <img [src]="'./assets/img/' + mangaData.foto" alt="logo">
+      <p>Autor: {{mangaData.autor}}</p>
+      <p>Número de Capítulos: {{mangaData.caps}}</p>
   </div>
 
   <div id="book-info">
-      <h2>One Piece</h2>
+      <h2>{{mangaData.titol}}</h2>
       <h5>Sinopsis:</h5>
-      <p>Shonen Aventura Fantasia</p>
-      <p id="sinopsis">
-        Una historia épica de piratas, donde narra la historia de Monkey D. Luffy quien cuado tenia 7 años, comió accidentalmente una Akuma no mi(Futa del diablo) la cual le dio poderes de goma. Por otra parte Gol D. Roger conocido como El rey de los Piratas quien fuera ejecutado por la Marine, habló antes de morir, acerca de su famoso tesoro One Piece escondido en la Gran line. Esta noticia desato la gran era de la piratas lanzando a incontables piratas a ese lugar,
-         en busca de One Piece el tesoro perdido. Diez años después, Luffy inspirado en Gol D. Roger y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo Rey de los Piratas y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el One Piece</p>
-  </div>
+      <p>{{mangaData.genere.join(', ')}}</p>
+      <p id="sinopsis">{{mangaData.sinopsis}}</p>
+
+    </div>
 </section>
