@@ -3,16 +3,27 @@ ul{
   padding: 0;
  list-style: none;
  align-items: center;
- justify-content: center;
+ justify-content:center;
 
 }
-
+li:hover{
+  transform: scale(1.1);
+}
+a{
+  text-decoration: none;
+  color: black;
+  display: flex;
+  align-items: center;
+}
+a:hover{
+  color: white;
+}
 li{
   margin : 5px;
   padding: 10px;
-  display: flex;
   align-items: center;
   width: 300px;
+  transition: transform 0.2s ease;
 }
 
 span{
@@ -27,3 +38,4 @@ li img{
 .play{
   margin-left: 20px;
 }
+
