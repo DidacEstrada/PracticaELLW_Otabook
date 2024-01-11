@@ -9,6 +9,7 @@ import{ MangaService } from '../manga.service';
   templateUrl:'./lista-ultimos-mangas.component.html',
   styleUrl: './lista-ultimos-mangas.component.css'
 })
+
 export class ListaUltimosMangasComponent implements OnInit {
   ultimosMangas: any[] = [];
 

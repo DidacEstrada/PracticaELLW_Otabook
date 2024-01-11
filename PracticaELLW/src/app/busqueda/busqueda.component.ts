@@ -9,5 +9,5 @@ import { CommonModule } from '@angular/common';
   styleUrl: './busqueda.component.css'
 })
 export class BusquedaComponent {
-
+  busqueda: string = '';
 }
