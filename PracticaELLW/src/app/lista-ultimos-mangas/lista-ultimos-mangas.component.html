@@ -1,34 +1,6 @@
 <div class="mangas">
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
-  </div>
-  <div class="manga">
-    <img src="./assets/img/deathnote.jpg">
-    <div class="texto">Death Note</div>
+  <div class="manga" *ngFor="let manga of ultimosMangas">
+    <img [src]="'./assets/img/' + manga.foto" alt="Logo">
+    <div class="texto">{{ manga.titol }}</div>
   </div>
 </div>

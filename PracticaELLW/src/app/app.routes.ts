@@ -1,10 +1,9 @@
 import { Routes } from '@angular/router';
-import { AppComponent } from './app.component';
 import { MangaComponent } from './manga/manga.component';
-import { TopfiveComponent } from './topfive/topfive.component';
+import { PrincipalComponent } from './principal/principal.component';
 
 
 export const routes: Routes = [
-  {path: '', component: TopfiveComponent, },
+  {path: '', component: PrincipalComponent},
   {path: ':titulo', component: MangaComponent}
 ];
