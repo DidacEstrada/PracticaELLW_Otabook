@@ -19,6 +19,16 @@ export class MangaService {
     }
   }
 
+  async getMangaDataByTitolQualsevol(mangaTitol: string): Promise<any> {
+    try{
+        const response = await fetch(`${this.apiUrl}/busqueda/${mangaTitol}`);
+        const mangaData = await response.json();
+        return mangaData;
+    }catch(error){
+      console.log(error);
+    }
+  }
+
   async getMangaDataByAutor(autor: string): Promise<any> {
     try{
         const response = await fetch(`${this.apiUrl}/autor/${autor}`);
