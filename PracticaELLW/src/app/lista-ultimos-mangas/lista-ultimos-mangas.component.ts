@@ -1,25 +1,14 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { CommonModule } from '@angular/common';
-import{ MangaService } from '../manga.service';
+import {AllMangasComponent} from '../all-mangas/all-mangas.component';
 
 @Component({
   selector: 'app-lista-ultimos-mangas',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, AllMangasComponent],
   templateUrl:'./lista-ultimos-mangas.component.html',
   styleUrl: './lista-ultimos-mangas.component.css'
 })
 
-export class ListaUltimosMangasComponent implements OnInit {
-  ultimosMangas: any[] = [];
-
-  constructor(private mangaService: MangaService) { }
-  ngOnInit(): void {
-      this.cargarUltimosMangas();
-  }
-
-  async cargarUltimosMangas(){
-    this.ultimosMangas = await this.mangaService.getMangues();
-    this.ultimosMangas = this.ultimosMangas.slice(0, 8);
-  }
+export class ListaUltimosMangasComponent {
 }

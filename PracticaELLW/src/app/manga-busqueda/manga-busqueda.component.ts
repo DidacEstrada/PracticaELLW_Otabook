@@ -1,11 +1,12 @@
 import { Component } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import{ MangaService } from '../manga.service';
+import { AllMangasComponent } from '../all-mangas/all-mangas.component';
 
 @Component({
   selector: 'app-manga-busqueda',
   standalone: true,
-  imports: [CommonModule],
+  imports: [CommonModule, AllMangasComponent],
   templateUrl: './manga-busqueda.component.html',
   styleUrl: './manga-busqueda.component.css'
 })
@@ -21,7 +22,6 @@ export class MangaBusquedaComponent {
 
   async cargarUltimosMangas(){
     this.ultimosMangas = await this.mangaService.getMangues();
-    this.ultimosMangas = this.ultimosMangas.slice(0, 8);
   }
 
 }
