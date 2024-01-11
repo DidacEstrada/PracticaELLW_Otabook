@@ -9,7 +9,8 @@ header {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  background-color: coral;
+  background-color: var(--color-base);
+  color: coral;
   border-radius: 5px;
   padding: 20px;
   margin-right: 50px;
@@ -30,14 +31,15 @@ h5{
 img {
   max-width: 230px;
   height: auto;
-  border: 3px solid black;
+  border: 3px solid coral;
 }
 
 #book-info {
   max-width: 600px;
   display: flex;
   flex-direction: column;
-  background-color: coral;
+  background-color: var(--color-base);
+  color: coral;
   border-radius: 5px;
   padding: 20px;
   padding-top: 10px;
