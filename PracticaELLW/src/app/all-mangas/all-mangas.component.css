@@ -6,6 +6,8 @@
 .manga img {
   width: 100%;
   height: auto;
+  overflow: hidden;
+  border-radius: 5px;
 }
 
 .manga:hover{
@@ -14,14 +16,14 @@
 
 .mangas {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 20px;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 30px;
   position: relative;
 }
 
 .texto {
   position: absolute;
-  bottom: 10px;
+  bottom: 20px;
   left: 50%;
   transform: translate(-50%, -50%);
   color: white;
