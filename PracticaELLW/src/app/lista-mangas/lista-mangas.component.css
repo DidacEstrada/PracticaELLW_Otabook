@@ -1,0 +1,31 @@
+nav {
+  margin-top: 15px;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+li {
+  text-align: center;
+  flex: 1;
+  padding: 15px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  display: block;
+  padding: 10px;
+  background-color: var(--color-base);
+  border-radius: 5px;
+}
+
+a:hover {
+  color: coral;
+}
