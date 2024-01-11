@@ -28,12 +28,17 @@ export class MangaService {
       console.log(error);
     }
   }
-  async getMangues(): Promise<any> {
-    try{
-        const response = await fetch(`${this.apiUrl}`);
-        const mangaData = await response.json();
-        return mangaData;
-    }catch(error){
+  async getMangues(cantidadMangas?: number): Promise<any> {
+    try {
+      const response = await fetch(`${this.apiUrl}`);
+      let mangas = await response.json();
+
+      if (cantidadMangas) {
+        mangas = mangas.slice(0, cantidadMangas);
+      }
+
+      return mangas;
+    } catch (error) {
       console.log(error);
     }
   }
