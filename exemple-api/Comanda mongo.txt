@@ -1,0 +1,4 @@
+docker run --name mongo-exemple -v .\mongo_data:/data/db -p 127.0.0.1:27017:27017  -d mongo
+
+ https://mongoosejs.com  //web per consultar
+ 
