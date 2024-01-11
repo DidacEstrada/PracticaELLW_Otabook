@@ -19,6 +19,16 @@ export class MangaService {
     }
   }
 
+  async getMangaDataByTitolQualsevol(mangaTitol: string): Promise<any> {
+    try{
+        const response = await fetch(`${this.apiUrl}/busqueda/${mangaTitol}`);
+        const mangaData = await response.json();
+        return mangaData;
+    }catch(error){
+      console.log(error);
+    }
+  }
+
   async getMangaDataByAutor(autor: string): Promise<any> {
     try{
         const response = await fetch(`${this.apiUrl}/autor/${autor}`);
@@ -34,12 +44,14 @@ export class MangaService {
       let mangas = await response.json();
 
       if (cantidadMangas) {
-        mangas = mangas.slice(0, cantidadMangas);
+        mangas = mangas.slice(-cantidadMangas).reverse();
+      } else {
+        mangas = mangas.reverse();
       }
 
       return mangas;
     } catch (error) {
-      console.log(error);
+      console.error(error);
     }
   }
   async getMangaDataByGeneres(generes: string[]): Promise<any> {

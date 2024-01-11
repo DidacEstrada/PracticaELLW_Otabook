@@ -8,9 +8,44 @@
   margin-left: 50px;
 }
 
-h2{
-  margin: 0px;
-  text-align: left;
-  color: coral;
-  margin-bottom: 20px;
+
+manga {
+  overflow: hidden;
+  transition: transform 0.1s ease;
+}
+
+.manga img {
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.manga:hover{
+  transform: scale(1.1);
+}
+
+.mangas {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  grid-gap: 30px;
+  position: relative;
+}
+
+.texto {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 12px;
+  background-color: rgba(0, 0, 0, 0.837);
+  padding: 5px;
+  border-radius: 3px;
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.manga:hover .texto {
+  opacity: 1;
 }

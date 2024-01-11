@@ -1,4 +1,19 @@
 
 <div class="mangas-caja">
-  <app-all-mangas></app-all-mangas>
+  <div *ngIf="!mostrarComponente">
+    <app-all-mangas></app-all-mangas>
+  </div>
+
+  <div *ngIf="mostrarComponente">
+    <div class="mangas">
+
+      <div class="manga" *ngFor="let manga of ultimosMangas">
+      <a [href]="'http://localhost:4200/'+ manga.titol">
+        <img [src]="'./assets/img/' + manga.foto" alt="Logo">
+        <div class="texto">{{ manga.titol }}</div>
+      </a>
+      </div>
+
+    </div>
+  </div>
 </div>
