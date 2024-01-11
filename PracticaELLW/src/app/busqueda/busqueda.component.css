@@ -1,0 +1,14 @@
+input[type="search"] {
+  width: 300px;
+  padding: 10px;
+  border: 2px solid rgb(255, 104, 49);
+  border-radius: 20px;
+  outline: none;
+  font-size: 16px;
+  color: #333;
+  background-color: coral;
+}
+
+input[type="search"]::placeholder {
+  color: rgb(0, 0, 0);
+}

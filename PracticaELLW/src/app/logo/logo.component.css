@@ -3,8 +3,19 @@ div {
   align-items: center;
   margin: 0;
   margin-left: 30px;
+  color: coral;
+}
+
+a {
+  text-decoration: none;
+  color: coral;
+  font-size: 30px;
+}
+a:hover{
+  color: rgb(255, 176, 147);
 
 }
+
 div img{
   margin-right: 10px;
 }

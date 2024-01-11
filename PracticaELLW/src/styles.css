@@ -5,5 +5,12 @@
 body{
   margin: 0;
   padding: 0;
-  background-color: #222;
+  background-image: url('assets/img/fondo.jpg');
+  background-size: cover;
+  background-attachment: fixed;
 }
+
+:root{
+  --color-base: rgb(24, 24, 24);
+}
+

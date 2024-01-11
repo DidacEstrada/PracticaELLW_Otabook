@@ -24,7 +24,5 @@ export class MangaComponent implements OnInit{
       if(this.titulo){
         this.mangaData = await this.mangaService.getMangaDataByTitol(this.titulo);
       }
-
-
     }
 }

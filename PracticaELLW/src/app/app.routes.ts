@@ -5,6 +5,6 @@ import { TopfiveComponent } from './topfive/topfive.component';
 
 
 export const routes: Routes = [
-  { path: '', component: TopfiveComponent },
+  {path: '', component: TopfiveComponent, },
   {path: ':titulo', component: MangaComponent}
 ];

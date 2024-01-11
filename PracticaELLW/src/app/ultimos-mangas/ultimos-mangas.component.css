@@ -1,16 +1,16 @@
-div{
+.mangas-caja {
+  padding: 20px;
   border-radius: 5px;
   margin-top: 35px;
   background-color: var(--color-base);
-  height: 600px;
-  width: 350px;
   padding: 20px;
+  margin-right: 50px;
   margin-left: 50px;
 }
 
 h2{
   margin: 0px;
-  text-align: center;
+  text-align: left;
   color: coral;
+  margin-bottom: 20px;
 }
-
