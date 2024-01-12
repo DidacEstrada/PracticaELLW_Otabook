@@ -7,11 +7,12 @@ import { NovedadesComponent } from './novedades/novedades.component';
 import { UltimosMangasComponent } from './ultimos-mangas/ultimos-mangas.component';
 import { ListaUltimosMangasComponent } from './lista-ultimos-mangas/lista-ultimos-mangas.component';
 import { ListaMangasComponent } from './lista-mangas/lista-mangas.component';
+import { TextoNovedadesComponent } from './texto-novedades/texto-novedades.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [CommonModule, RouterOutlet, CapsaleraComponent, TopfiveComponent, NovedadesComponent, UltimosMangasComponent, ListaUltimosMangasComponent, ListaMangasComponent],
+  imports: [CommonModule, RouterOutlet, CapsaleraComponent, TopfiveComponent, NovedadesComponent, TextoNovedadesComponent, UltimosMangasComponent, ListaUltimosMangasComponent, ListaMangasComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })

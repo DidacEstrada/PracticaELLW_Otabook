@@ -1,0 +1,33 @@
+.texto {
+  position: absolute;
+  top: 70%;
+  left: 10%;
+  transform: translate(-20%, -50%);
+  width: 500px;
+  text-align: left;
+  color: #fff; /* Color del texto */
+}
+
+.texto h1 {
+  margin: 0;
+  margin-bottom: 30px;
+}
+
+.texto h2 {
+  margin: 0;
+  font-size: 15px;
+  color: coral;
+}
+
+.texto p {
+  margin-top: 10px;
+}
+
+a {
+  text-decoration: none;
+  font-size: 40px;
+  color: white;
+}
+a:hover {
+  color: coral;
+}

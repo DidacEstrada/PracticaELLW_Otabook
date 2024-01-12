@@ -4,13 +4,10 @@ import { Component } from '@angular/core';
   selector: 'app-texto-novedades',
   standalone: true,
   imports: [],
-  template: `
-    <p>
-      texto-novedades works!
-    </p>
-  `,
+  templateUrl: './texto-novedades.component.html',
   styleUrl: './texto-novedades.component.css'
 })
 export class TextoNovedadesComponent {
 
 }
+
