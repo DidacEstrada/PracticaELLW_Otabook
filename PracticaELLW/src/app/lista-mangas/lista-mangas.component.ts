@@ -13,7 +13,7 @@ import{ MangaService } from '../manga.service';
 
 export class ListaMangasComponent implements OnInit {
   generos: string[] = ['Todos', 'Comedia', 'Accion', 'Escolar', 'Seinen', 'Misterio'];
-  generoSeleccionado: string = '';
+  generoSeleccionado: string = 'Todos';
   ultimosMangas: any[] = [];
 
   constructor(private mangaService: MangaService) {}

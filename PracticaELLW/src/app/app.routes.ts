@@ -9,6 +9,5 @@ export const routes: Routes = [
   {path: '', component: PrincipalComponent},
   {path: ':titulo', component: MangaComponent},
   {path: 'listar/Mangas', component: ListaMangasComponent},
-  {path: 'listar/Mangas/:genero', component: ListaMangasComponent},
   {path: 'busqueda/:buscado', component: MangaBusquedaComponent}
 ];
