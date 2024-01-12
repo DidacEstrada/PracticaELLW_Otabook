@@ -1,0 +1,47 @@
+header {
+  width: 100%;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#logo {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--color-base);
+  color: coral;
+  border-radius: 5px;
+  padding: 20px;
+  margin-right: 50px;
+}
+#details {
+  display: flex;
+  justify-content: center;
+  margin: 0;
+  margin-top: 20px;
+}
+#sinopsis {
+  margin: 0;
+}
+h5{
+  margin: 0;
+
+}
+img {
+  max-width: 230px;
+  height: auto;
+  border: 3px solid coral;
+}
+
+#info {
+  max-width: 600px;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--color-base);
+  color: coral;
+  border-radius: 5px;
+  padding: 20px;
+  padding-top: 10px;
+
+}
