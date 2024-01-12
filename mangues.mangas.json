@@ -1,0 +1,365 @@
+[{
+  "_id": {
+    "$oid": "658d6e5af264943684ba2ff5"
+  },
+  "titol": "One Piece",
+  "autor": "Eiichiro Oda",
+  "genere": [
+    "Aventura",
+    "Accion",
+    "Comedia",
+    "Fantasia",
+    "Shounen"
+  ],
+  "caps": 1102,
+  "foto": "onepiece.jpg",
+  "sinopsis": "Una historia épica de piratas, donde narra la historia de Monkey D. Luffy quien cuado tenia 7 años, comió accidentalmente una Akuma no mi(Futa del diablo) la cual le dio poderes de goma. Por otra parte Gol D. Roger conocido como El rey de los Piratas quien fuera ejecutado por la Marine, habló antes de morir, acerca de su famoso tesoro One Piece escondido en la Gran line. Esta noticia desato la gran era de la piratas lanzando a incontables piratas a ese lugar, en busca de One Piece el tesoro perdido. Diez años después, Luffy inspirado en Gol D. Roger y un pirata de nombre Akagami no Shanks (Shanks el pelirrojo) se convierte en pirata deseando ser el próximo Rey de los Piratas y zarpar para conocer amigos y tener aventuras con ellos, teniendo como meta encontrar el One Piece",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d9d022625816420c910cc"
+  },
+  "titol": "Jujutsu Kaisen",
+  "autor": "Gege Akutami",
+  "genere": [
+    "Shounen",
+    "Accion",
+    "Sobrenatural",
+    "Terror"
+  ],
+  "caps": 246,
+  "foto": "jujutsukaisen.jpg",
+  "sinopsis": "Yuuji Itadori es un estudiante con unas habilidades físicas excepcionales. Todos los días, como rutina, va al hospital a visitar a su abuelo enfermo y decide apuntarse al club de ocultismo de instituto para no dar un palo en el agua... Sin embargo, un buen día el sello del talismán que se hallaba escondido en su instituto se rompe, y comienzan a aparecer unos monstruos. Ante este giro de los acontecimientos, Itadori decide adentrarse en el instituto para salvar a sus compañeros. ¿Qué le deparará el destino?",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658d9fa82625816420c910d4"
+  },
+  "titol": "Kimetsu no Yaiba",
+  "autor": "Koyoharu Gotōge",
+  "genere": [
+    "Shounen",
+    "Accion",
+    "Sobrenatural",
+    "Drama"
+  ],
+  "caps": 205,
+  "foto": "kimetsunoyaiba.jpg",
+  "sinopsis": "El escenario es la era Taisho de Japón. Tanjirou es un joven de buen corazón que vivió en paz con su familia como vendedor de carbón. Su vida normal cambia completamente cuando su familia es asesinada por demonios. La única otra sobreviviente, la hermana menor de Tanjirou, Nezuko, se ha convertido en un demonio feroz. Para devolver a Nezuko a la normalidad y vengarse del demonio que mató a su familia, los dos parten en un viaje. De un joven talento, comienza una historia de aventuras de sangre y espadas.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658da1592625816420c910d7"
+  },
+  "titol": "Haikyuu!!",
+  "autor": "Haruichi Furudate",
+  "genere": [
+    "Comedia",
+    "Deportes",
+    "Drama",
+    "Escolar",
+    "Shounen"
+  ],
+  "caps": 402,
+  "foto": "haikyuu.jpg",
+  "sinopsis": "Hinata Shouyou, al ver un partido de voleibol, pretende convertirse en El pequeño gigante, y se une a la escuela media de voleibol del club. Después de encontrar nuevos miembros, se establece para el torneo de la escuela secundaria, donde se cruzan con una escuela superior, con el Rey del juego superior, Kageyama Tobio .Aunque su equipo perdió, Shouyou sigue decidido a seguir adelante y vengarse de Kageyama. Al entrar en la escuela secundaria, recibió la sorpresa más grande - que Kageyama se encuentran en la misma escuela y el club!",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658da2d42625816420c910da"
+  },
+  "titol": "Dragon Ball",
+  "autor": "Akira Toriyama",
+  "genere": [
+    "Shounen",
+    "Aventura",
+    "Comedia",
+    "Fantasia"
+  ],
+  "caps": 519,
+  "foto": "dragonball.jpg",
+  "sinopsis": "Con Goku como protagonista principal de la historia, el argumento se centra en la búsqueda de las legendarias esferas del dragon, un total de siete que al ser reunidas daban lugar a la aparición del dragón sagrado que puede conceder cualquier deseo. Goku, con la ayuda de su compañera Bulma además de otros personajes que se irán uniendo con el paso de la historia, se adentrará en la búsqueda de las esferas del dragon y desafiará a todo tipo de villanos para convertirse en el hombre más fuerte del mundo. También se hará especial incapié al Budokai Tenkaichi, un gran Torneo Mundial de Artes Marciales en el que los mejores luchadores de todo el Mundo se darán cita, batiéndose en Duelo a fin de demostrar quien es el mas fuerte luchador sobre la Tierra.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658da47e2625816420c910de"
+  },
+  "titol": "Shigatsu wa Kimi no Uso",
+  "autor": "Naoshi Arakawa",
+  "genere": [
+    "Drama",
+    "Escolar",
+    "Musica",
+    "Romance"
+  ],
+  "caps": 42,
+  "foto": "shigatsuwakiminouso.jpg",
+  "sinopsis": "El prodigio del piano Arima Kosei, dominaba la competición y todos los niños músicos sabían su nombre. Pero, después que su madre, quien también era su instructora, falleciera, él tuvo un colapso mental mientras actuaba en un recital que resultó en que él no fue capaz de escuchar más el sonido de su piano, a pesar de que sus oídos estaban perfectamente bien. Después de dos años, Kosei no ha tocado el piano y ve el mundo en un solo tono y sin estilo o color. Él estaba contento de vivir su vida con sus buenos amigos Tsubaki y Watari, hasta que, un día, una chica cambió todo. Miyazono Kaori es una hermosa violinista de espíritu libre quien toca el estilo que refleja su personalidad. Kaori ayuda a Kosei a regresar al mundo de la música y le muestra que debería ser libre y romper el molde a diferencia del estilo rígido y estructurado que Kosei usaba.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658daa1d2625816420c910e2"
+  },
+  "titol": "ReLIFE",
+  "autor": "Yayoiso",
+  "genere": [
+    "Romance",
+    "Escolar",
+    "Comedia",
+    "Fantasia"
+  ],
+  "caps": 222,
+  "foto": "relife.jpg",
+  "sinopsis": "Kaizaki Arata es un desempleado de 27 años que fracasó en cada entrevista de trabajo que tuvo luego de renunciar a la última empresa para la que sólo trabajó tres meses. Sin embargo, su vida cambia al conocer a Yoake Ryou, del Instituto de Investigación ReLife, quien le ofrece una droga que puede cambiar su apariencia a la de un chico de 17 años para convertirse en un sujeto de pruebas por un año, tiempo en el que deberá comenzar de nuevo su vida como un estudiante de secundaria.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e92a883301242fbb1ac4e"
+  },
+  "titol": "Detective Conan",
+  "autor": "Gōshō Aoyama",
+  "genere": [
+    "Misterio",
+    "Thriller",
+    "Accion",
+    "Policia"
+  ],
+  "caps": 1084,
+  "foto": "detectiveconan.jpg",
+  "sinopsis": "El detective juvenil más famoso de Japón, el estudiante de secundaria, él es Shinichi Kudo, se encuentra en un parque de atracciones junto a su amiga de la infancia Ran Mouri, de la que está secretamente enamorado pero él no sabe que ella también lo está de él. Allí, después de resolver un nuevo caso de muerte, se separa de su amiga y presencia un intercambio sospechoso de dinero entre uno de los hombres vestidos de negro que estaba presente en el caso anterior y un hombre misterioso. Mientras los espiaba, Shinichi es atacado por la espalda por el compañero del hombre de negro, y le administran un veneno el APTX 4869 con el fin de matarlo. Sin embargo el veneno tuvo un efecto inesperado: el cuerpo de Shinichi pasó a convertirse en el de un niño de 7 años. Ahora, haciéndose llamar Conan Edogawa y ocultando su verdadera identidad con tal de proteger a los suyos y a él mismo de los Hombres de negro, el joven detective se traslada a casa de Ran y su padre: el detective Kogoro Mouri quien no es muy prestigioso. Ninguno de ellos sabe que Conan es, en realidad, Shinichi y este utilizará su secreto para resolver los casos del propio Mouri en su nombre y sin que nadie lo sepa. Ni el propio Kogoro.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e937783301242fbb1ac51"
+  },
+  "titol": "Death Note",
+  "autor": "Tsugumi Ōba",
+  "genere": [
+    "Misterio",
+    "Thriller",
+    "Sobrenatural",
+    "Policia"
+  ],
+  "caps": 108,
+  "foto": "deathnote.jpg",
+  "sinopsis": "Light Yagami es un excelente estudiante japonés que ha tenido una vida aburrida. Esto cambia radicalmente cuando encuentra tirado en el suelo un cuaderno conocido como Death Note (Libreta de la Muerte), un cuaderno perdido por Ryuk, un Shinigami (Dios de la muerte). Cualquier humano cuyo nombre esté escrito en el cuaderno morirá, y ahora Light ha decidido utilizar este poder para crear un mundo perfecto sin criminales. Pero cuando los criminales comienzan a morir de forma masiva, las autoridades envían al legendario detective L en busca del asesino. Con L pisándole los talones, Podrá mantener Light su noble propósito incluso arriesgando su vida.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e948383301242fbb1ac54"
+  },
+  "titol": "Tokyo Ghoul",
+  "autor": "Sui Ishida",
+  "genere": [
+    "Misterio",
+    "Terror",
+    "Sobrenatural",
+    "Drama",
+    "Accion",
+    "Seinen"
+  ],
+  "caps": 143,
+  "foto": "tokyoghoul.jpg",
+  "sinopsis": "En Tokyo ocurren asesinatos misteriosos cometidos por Ghouls, seres desconocidos que comen carne humana. Un día Kaneki Ken, un joven de 18 años que cursa la Universidad, conoce a una chica en un restaurante y la invita a salir. Tras una cita aparentemente agradable, Kaneki se ofrece a llevarla a su casa, sin embargo al entrar a un callejón es atacado por la chica, que resulta ser un Ghoul.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e963a83301242fbb1ac57"
+  },
+  "titol": "Vinland Saga",
+  "autor": "Makoto Yukimura",
+  "genere": [
+    "Accion",
+    "Aventuras",
+    "Drama",
+    "Seinen"
+  ],
+  "caps": 207,
+  "foto": "vinlandsaga.jpg",
+  "sinopsis": "Thorfinn, hijo de uno de los guerreros más grandes de los vikingos, se encuentra entre los mejores luchadores de la alegre banda de mercenarios dirigida por el astuto Askeladd. Sin embargo, Thorfinn no es parte del grupo por el saqueo que implica, en cambio, por haber causado una gran tragedia a su familia, el chico ha prometido matar a Askeladd en un duelo justo. Thorfinn pasa su niñez con la tripulación mercenaria, perfeccionando sus habilidades en el campo de batalla entre los daneses, donde matar es solo otro placer de la vida. Un día, cuando Askeladd recibe noticias de que el príncipe danés Canute ha sido tomado como rehén, trama un ambicioso plan: uno que decidirá al próximo rey de Inglaterra y alterará drásticamente las vidas de Thorfinn, Canute y la suya. Situada en el siglo XI en Europa, Vinland Saga cuenta una sangrienta epopeya en una era donde la violencia, la locura y la injusticia son ineludibles, proporcionando un paraíso para el infierno enloquecido por las batallas y el resto de quienes viven en él.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e976a83301242fbb1ac5b"
+  },
+  "titol": "Horimiya",
+  "autor": "HERO",
+  "genere": [
+    "Comedia",
+    "Escolar",
+    "Romance",
+    "Shounen"
+  ],
+  "caps": 125,
+  "foto": "horimiya.jpg",
+  "sinopsis": "Aunque admirada en la escuela por su amabilidad y destreza académica, la estudiante de preparatoria Kyouko Hori ha estado escondiendo otro lado de ella. Con sus padres a menudo fuera de casa debido al trabajo, Hori tiene que cuidar de su hermano menor y hacer las tareas del hogar, sin tener tiempo para socializar fuera de la escuela. Mientras tanto, Izumi Miyamura es visto como un inquietante otaku que usa anteojos. Sin embargo, en realidad es una persona amable e inepta para estudiar. Además, tiene nueve piercings escondidos detrás de su largo cabello, y un tatuaje a lo largo de su espalda y hombro izquierdo. Por pura casualidad, Hori y Miyamura se cruzan fuera de la escuela, ninguno luciendo como el otro lo esperaría. Estos polos aparentemente opuestos se convierten en amigos, compartiendo un lado que nunca le han mostrado a nadie.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e992683301242fbb1ac61"
+  },
+  "titol": "Mushoku Tensei",
+  "autor": "Rifujin na Magonote",
+  "genere": [
+    "Aventura",
+    "Accion",
+    "Comedia",
+    "Fantasia",
+    "Seinen"
+  ],
+  "caps": 96,
+  "foto": "mushokutensei.jpg",
+  "sinopsis": "Asesinado mientras salvaba unos estudiantes que serían atropellados por un camión, un NEET de 34 años reencarna en un nuevo mundo de magia bajo el nombre de Rudeus Greyrat, un recién nacido. Con conocimiento, experiencia y arrepentimientos de una vida pasada, Rudeus jura llevar una vida plena y no volver a repetir sus errores. Ahora, dotado con un tremendo poder mágico, así como la mentalidad de un hombre adulto, Rudeus es visto como un genio en potencia por sus nuevos padres. Pronto, se verá siendo entrenado por poderosos guerreros, como su padre, un espadachín y una maga llamada Roxy Migurdia. Pero a pesar de su inocente exterior, Rudeus sigue siendo un otaku pervertido, y usa sus vastos conocimientos para hacer suyas a las mujeres que en su vida anterior nunca disfrutó.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658e9a2683301242fbb1ac64"
+  },
+  "titol": "Goblin Slayer",
+  "autor": "Kumo Kagyu",
+  "genere": [
+    "Accion",
+    "Terror",
+    "Fantasia",
+    "Seinen"
+  ],
+  "caps": 85,
+  "foto": "goblinslayer.jpg",
+  "sinopsis": "Una joven sacerdotisa ha formado su primer grupo de aventureros, pero no tardan mucho en verse en serios problemas. Por suerte, quien aparece en su rescate es el Asesino de Goblins, un hombre que ha dedicado su vida a exterminar a todo goblin viviente por los medios que fueran necesarios. Cuando comienzan a circular rumores sobre sus hazañas, no hay forma de saber quién será el próximo en aparecer…",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ee28b83301242fbb1ac68"
+  },
+  "titol": "Made in Abyss",
+  "autor": "Akihito Tsukushi",
+  "genere": [
+    "Aventura",
+    "Drama",
+    "Fantasia",
+    "Seinen"
+  ],
+  "caps": 66,
+  "foto": "madeinabyss.jpg",
+  "sinopsis": "En Orth, una ciudad al borde del Abismo, vive una pequeña niña huérfana llamada Riko, que sueña con convertirse en una gran exploradora como su madre y descubrir los misterios del Abismo. Por otra parte, el Abismo es el último rincón de la tierra en ser inexplorado. Con el paso del tiempo, a las personas que decidían bajar a sus profundidades se les dio el nombre de “Exploradores de las Profundidades”. Un día, en uno de sus muchos descensos a las profundidades del Abismo, Riko es salvada por un niño que resulta ser un robot…",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ee41583301242fbb1ac6f"
+  },
+  "titol": "Tokyo Revengers",
+  "autor": "Ken Wakui",
+  "genere": [
+    "Accion",
+    "Drama",
+    "Escolar",
+    "Shounen"
+  ],
+  "caps": 278,
+  "foto": "tokyorevengers.jpg",
+  "sinopsis": "Mientras miraba las noticias, Takemichi Hanagaki se entera de que su novia de secundaria, Hinata Tachibana, ha muerto. La única chica que alguna vez se fijó en él fue asesinada por un grupo de criminales conocidos como la Banda Tokyo Manji. Takemichi vive en un viejo departamento con delgadas paredes, y en su trabajo, su jefa seis años menor que él lo trata como basura. Para rematar, es un completo virgen… En la cúspide de la miseria de su vida, de repente vuelve en el tiempo doce años a sus días de secundaria. Para salvar a Hinata y cambiar el curso del tiempo, ¡el alguna vez inútil trabajador de medio tiempo Takemichi deberá buscar volverse el líder de la banda criminal más tenebrosa de Tokio!",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ee71183301242fbb1ac73"
+  },
+  "titol": "Ao Haru Ride",
+  "autor": "Io Sakisaka",
+  "genere": [
+    "Comedia",
+    "Drama",
+    "Escolar",
+    "Romance"
+  ],
+  "caps": 50,
+  "foto": "aoharuride.jpg",
+  "sinopsis": "Ao Haru Ride gira en torno a Futaba, una chica que en secundaria estaba enamorada de un chico llamado Ko Tanaka. Sin embargo, tras un malentendido, su relación como amigos finaliza cuando él cambia de escuela durante las vacaciones de verano. En el instituto, el mundo de Futaba se pone del revés al coincidir nuevamente con Ko, que ahora se llama Ko Mabuchi.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658ee88c83301242fbb1ac77"
+  },
+  "titol": "Gotoubun no Hanayome",
+  "autor": "Negi Haruba",
+  "genere": [
+    "Comedia",
+    "Escolar",
+    "Romance",
+    "Harem",
+    "Shounen"
+  ],
+  "caps": 123,
+  "foto": "gotoubunnohanayome.jpg",
+  "sinopsis": "Fuutarou Uesugi es un estudiante de segundo año de preparatoria/instituto cuya familia siempre ha sido muy pobre. Un día recibe una suculenta oferta de trabajo como tutor a medio tiempo... ¡pero sus estudiantes resultan ser unas chicas de su propia clase! Para complicar más las cosas, son quintillizas... Las cinco hermanas son todas muy atractivas, pero no es lo único que tienen en común: todas odian estudiar y sus calificaciones siempre están al límite de la catástrofe. Tendrá que conseguir que las cinco estudien, pero primero tendrá que estudiar él cómo ganarse su confianza.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658eea7883301242fbb1ac7e"
+  },
+  "titol": "Dororo",
+  "autor": "Osamu Tezuka",
+  "genere": [
+    "Accion",
+    "Aventura",
+    "Shounen",
+    "Sobrenatural"
+  ],
+  "caps": 29,
+  "foto": "dororo.jpg",
+  "sinopsis": "Daigo Kagemitsu es un temible samurái que entregó su futuro hijo a demonios, a cambio de ver cumplido su sueño de conquistar el país. Al cabo del tiempo, nació su hijo deforme, al que faltaban cuarenta y ocho partes de su cuerpo. Su ambicioso padre lo arrojó al río, pero el pequeño logró sobrevivir y, con el tiempo, convertirse en un diestro espadachín llamado Hyakkimaru, «pequeño monstruo». Años después, con la ayuda del joven y avispado Dororo, quien afirma ser el mejor ladrón de Japón, Hyakkimaru emprenderá un viaje a lo largo del cual se enfrentará a los demonios para recuperar las partes de su cuerpo.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "658eec1083301242fbb1ac84"
+  },
+  "titol": "Mieruko-chan",
+  "autor": "Tomoki Izumi",
+  "genere": [
+    "Comedia",
+    "Escolar",
+    "Sobrenatural",
+    "Terror",
+    "Misterio",
+    "Seinen"
+  ],
+  "caps": 54,
+  "foto": "mierukochan.jpg",
+  "sinopsis": "Un día, Miko empieza a ver grotescos monstruos, pero nadie más puede verlos salvo ella. En vez de huir o enfentrarlos... Decide intentar ignorarlos completamente. ¿Podrá mantener la compostura en su vida diaria rodeada de horripilantes monstruos?",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65a07f3e6ae7497a9571526f"
+  },
+  "titol": "Shingeki no Kyojin",
+  "autor": "Hajime Isayama",
+  "genere": [
+    "Comedia",
+    "Sobrenatural",
+    "Terror",
+    "Misterio"
+  ],
+  "caps": 139,
+  "foto": "shingekinokyojin.jpg",
+  "sinopsis": "La historia nos traslada a un mundo en el que la humanidad estuvo a punto de ser exterminada cientos de años atrás por los gigantes. Los gigantes son enormes, parecen no ser inteligentes y devoran seres humanos. Lo peor es que parece que lo hacen por placer y no por alimentarse. Una pequeña parte de la humanidad ha conseguido sobrevivir protegiéndose en una ciudad con unos altísimos muros, más altos que el mayor de los gigantes. La ciudad vive su vida tranquila, y hace más de 100 años que ningún gigante aparece por allí. Eren y su hermana adoptiva Mikasa son todavía unos adolescentes cuando ven algo horroroso: un gigante mucho mayor que todos los que la humanidad había conocido hasta el momento está destruyendo los muros de la ciudad. No pasa mucho tiempo hasta que los gigantes entran por el hueco abierto en el muro y comienzan a devorar a la gente.",
+  "__v": 0
+}]
