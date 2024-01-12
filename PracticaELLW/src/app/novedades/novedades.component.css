@@ -1,6 +1,6 @@
 .imagen-novedad {
   height: 500px;
-  background-image: url('https://phantom-marca-mx.unidadeditorial.es/b4545d6fef6c25bf830375df5ee58d32/resize/828/f/jpg/mx/assets/multimedia/imagenes/2023/11/05/16991427016479.jpg');
+  background-image: url('/assets/img/novedad.jpg');
   background-size: cover;
   overflow: hidden;
   position: relative;
